@@ -5,6 +5,8 @@ output: github_document
 
 Materials for R Shiny Workshop at the 2024 Tribal Exchange Network Conference
 
+15 November 2024
+
 ## Requirements
 
 - [R v4+](https://www.r-project.org/)
@@ -26,15 +28,21 @@ Materials for R Shiny Workshop at the 2024 Tribal Exchange Network Conference
 
 ## Pre-workshop Instructions
 
-1. Choose one of the following options:
+1. [Download and Install R](https://cloud.r-project.org/) (or updated your version to >4.0.0)
+
+2. [Download and Install RStudio](https://posit.co/download/rstudio-desktop/)
+
+3. Choose one of the following options to obtain the workshop materials:
 
     - Clone this repository onto your machine
 
     - Download a zip file using the green button that says "<> Code"
 
-2. Set your working directory to /rshiny-workshop
+4. Set your working directory to /rshiny-workshop
 
-3. Run the setup.R file to make sure you have all of the dependencies installed
+5. Run the setup.R script to make sure you have all of the requirements installed
+
+*Reach out with any questions or for assistance: jevanilla@bigelow.org*
 
 ## Example Data
 

@@ -1,9 +1,14 @@
 # Setup file for the workshop: "Introduction to Developing Interactive Shiny Applications in R"
 
-# Run the following two lines to make sure you have updated versions of all of the packages
+installed = rownames(installed.packages())
 
-packages <- c("shiny", "dplyr", "ggplot2", "DT", "leaflet", "bslib")
+cran_packages <- c("shiny", "dplyr", "ggplot2", "DT", "leaflet", "bslib")
 
-for (package in packages) {
+ix = (cran_packages %in% installed)
+for (package in cran_packages[!ix]) {
   install.packages(package)
 }
+
+suppressPackageStartupMessages({
+  for (package in cran_packages) library(package, character.only = TRUE)
+})
