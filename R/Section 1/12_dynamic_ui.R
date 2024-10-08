@@ -37,7 +37,6 @@ server <- function(input, output, session) {
   storm <- reactive({
     filter(storms(), name == input$name)
   })
-  
 
   output$storm_tracks <- renderLeaflet({
     leaflet(data=storm()) |> 
@@ -51,4 +50,4 @@ shinyApp(ui, server)
 
 
 # Exercises 
-# 1. Add another selection to see the different storm categories that the storm exhibited
+# 1. Add another selection to view and filter the different storm status categories

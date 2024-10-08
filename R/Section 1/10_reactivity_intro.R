@@ -10,8 +10,7 @@ s <- storms
 
 ui <- fluidPage(
   selectInput("year", "Choose a year", choices = unique(s$year)),
-  textOutput("n_storms"),
-  textOutput("max_wind")
+  textOutput("n_storms")
 )
 
 server <- function(input, output) {

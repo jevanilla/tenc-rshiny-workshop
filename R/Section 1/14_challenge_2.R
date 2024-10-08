@@ -2,7 +2,7 @@
 #
 # Design a shiny app that:
 # - Lets the user select a numeric column in the storms table
-# - Makes a histogram of the column data using ggplot()
+# - Makes a histogram of the column data using ggplot() and geom_histogram()
 # - Allows the user to choose bin width
 # - Print summary statistics about the column (ie min, max, etc.)
 # 

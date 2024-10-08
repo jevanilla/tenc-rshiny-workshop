@@ -34,5 +34,5 @@ server = function(input, output, session) {}
 shinyApp(ui, server)
 
 # Exercises 
-# Browse for themes and try a few out
-# Check out the help page for bs_theme() for how to customize your own
+# 1. Browse for themes and try a few out
+# 2. Check out the help page for bs_theme() for how to customize your own

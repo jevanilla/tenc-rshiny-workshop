@@ -49,7 +49,7 @@ ui3 <- fluidPage(
 
 server <- function(input,output) {}
 
-shinyApp(ui = ui2, server = server)
+shinyApp(ui = ui, server = server)
 
 # Exercises:
 # 1. Add a column to the fluidRow layout
