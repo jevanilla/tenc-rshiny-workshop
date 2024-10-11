@@ -14,12 +14,8 @@ Conference](https://sites.google.com/view/tenc24/home)
 2.  [Download and Install
     RStudio](https://posit.co/download/rstudio-desktop/)
 
-3.  Choose one of the following options to obtain the workshop
-    materials:
-
-    - Clone this repository onto your machine
-
-    - Download a zip file using the green button that says “\<\> Code”
+3.  [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+    this repository onto your machine
 
 4.  Set your working directory to `/tenc-rshiny-workshop`
 
@@ -27,7 +23,7 @@ Conference](https://sites.google.com/view/tenc24/home)
     installed
 
 *Reach out with any questions or for assistance:
-<jevanilla@bigelow.org>*
+<jevanilla@bigelow.org>*.
 
 ## Requirements
 
