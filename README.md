@@ -1,10 +1,33 @@
 Introduction to Developing Interactive Shiny Applications in R
 ================
 
-Materials for R Shiny Workshop at the 2024 Tribal Exchange Network
-Conference
+Materials for R Shiny Workshop at the [2024 Tribal Exchange Network
+Conference](https://sites.google.com/view/tenc24/home)
 
-15 November 2024
+15 October 2024
+
+## Pre-workshop Instructions
+
+1.  [Download and Install R](https://cloud.r-project.org/) (or updated
+    your version to \>4.0.0)
+
+2.  [Download and Install
+    RStudio](https://posit.co/download/rstudio-desktop/)
+
+3.  Choose one of the following options to obtain the workshop
+    materials:
+
+    - Clone this repository onto your machine
+
+    - Download a zip file using the green button that says “\<\> Code”
+
+4.  Set your working directory to `/tenc-rshiny-workshop`
+
+5.  Run the setup.R script to make sure you have all of the requirements
+    installed
+
+*Reach out with any questions or for assistance:
+<jevanilla@bigelow.org>*
 
 ## Requirements
 
@@ -23,29 +46,6 @@ Conference
 - [leaflet](https://CRAN.R-project.org/package=leaflet)
 
 - [bslib](https://CRAN.R-project.org/package=bslib)
-
-## Pre-workshop Instructions
-
-1.  [Download and Install R](https://cloud.r-project.org/) (or updated
-    your version to \>4.0.0)
-
-2.  [Download and Install
-    RStudio](https://posit.co/download/rstudio-desktop/)
-
-3.  Choose one of the following options to obtain the workshop
-    materials:
-
-    - Clone this repository onto your machine
-
-    - Download a zip file using the green button that says “\<\> Code”
-
-4.  Set your working directory to /rshiny-workshop
-
-5.  Run the setup.R script to make sure you have all of the requirements
-    installed
-
-*Reach out with any questions or for assistance:
-<jevanilla@bigelow.org>*
 
 ## Example Data
 
@@ -117,7 +117,7 @@ this workshop.
   3.  [Posit connect](https://posit.co/products/enterprise/connect/)
       Enterprise solution with all the bells and whistles
 
-## Acknowledgements
+## Acknowledgements + Resources
 
 Materials in this workshop were adapted from:
 

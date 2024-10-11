@@ -1,7 +1,7 @@
 # Lesson 1.3 - Using Tidy Evaluation with Shiny
 # Objectives
-# 1. making dynamic graphics using ggplot2
-# 2. operating on data frames using the dplyr verbs
+# 1. Understand how to implement dynamic graphics with ggplot2
+# 2. Practice operating on data frames using the dplyr verbs and user supplied variable names
 
 suppressPackageStartupMessages({
   library(shiny)
