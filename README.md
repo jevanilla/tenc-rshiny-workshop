@@ -125,3 +125,14 @@ Materials in this workshop were adapted from:
 
 - [Shiny for R Cheat
   Sheet](https://shiny.posit.co/r/articles/start/cheatsheet/)
+
+- [Shiny Assistant](https://shiny.posit.co/blog/posts/shiny-assistant/)
+
+## Example Shiny Apps
+
+- [MPA Europe - Species Distrbution
+  Maps](https://shiny.obis.org/distmaps/)
+
+- [WhaleMap](https://whalemap.org/WhaleMap/)
+
+- [QR Code Generator](https://broccolito.shinyapps.io/qrcode_generator/)
